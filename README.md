@@ -1,3 +1,5 @@
+# IPv6 support broken w/ stock OpenWRT + Luci install on R8000! Beware on cable connections, possible issue with Broadcom drivers and not OpenWRT proper
+
 ![OpenWrt logo](include/logo.png)
 
 OpenWrt Project is a Linux operating system targeting embedded devices. Instead
